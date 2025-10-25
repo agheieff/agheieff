@@ -2,13 +2,13 @@
 
 <div id="badges">
   <a href="https://t.me/agheieff">
-    <img src="telegram.webp" width="36" alt="Telegram"/>
+    <img src="telegram.svg" width="36" alt="Telegram"/>
   </a>
   <a href="https://x.com/agheieff_">
     <img src="x.webp" width="36" alt="X"/>
   </a>
   <a href="https://www.linkedin.com/in/agheieff/">
-    <img src="linkedin.webp" width="36" alt="LinkedIn"/>
+    <img src="linkedin.svg" width="36" alt="LinkedIn"/>
   </a>
 </div>
 
