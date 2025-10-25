@@ -8,7 +8,7 @@
     <img src="x.webp" width="36" alt="X"/>
   </a>
   <a href="https://www.linkedin.com/in/agheieff/">
-    <img src="linkedin.webp" width="36" alt="LinkedIn"/>
+    <img src="li.webp" width="36" alt="LinkedIn"/>
   </a>
 </div>
 
