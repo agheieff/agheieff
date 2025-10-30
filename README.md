@@ -18,4 +18,4 @@
 
 - [libs](https://github.com/agheieff/libs) — small, strict, modular libraries for my projects
 - [ai-chat](https://github.com/agheieff/ai-chat) — simple llm chat interfaces, simplifying prompt management (local + cloud).
-- [(comprehensive input app)](https://github.com/agheieff/Lang) — focused app for targeted, comprehensive input for language learning
+- [comprehensive input app](https://github.com/agheieff/Lang) — focused app for targeted, comprehensive input for language learning
