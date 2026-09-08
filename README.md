@@ -7,9 +7,6 @@
   <a href="https://x.com/agheieff_">
     <img src="x.webp" width="36" alt="X"/>
   </a>
-  <a href="https://www.linkedin.com/in/agheieff/">
-    <img src="li.webp" width="36" alt="LinkedIn"/>
-  </a>
 </div>
 
 ## Projects
